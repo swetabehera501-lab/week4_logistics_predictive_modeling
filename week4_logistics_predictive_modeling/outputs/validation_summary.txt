@@ -1,0 +1,4 @@
+Best parameters: {'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__n_estimators': 200}
+Mean 5-fold CV MAE: 0.500 days
+CV MAE standard deviation: 0.058 days
+Synthetic dataset; validate on real, time-ordered data before deployment.
